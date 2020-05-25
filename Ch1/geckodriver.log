@@ -130,3 +130,12 @@ update@XPIProvider.jsm:2074:13
 1590435545111	Marionette	INFO	Listening on port 55678
 1590435545161	Marionette	WARN	TLS certificate errors will be ignored for this session
 1590435545302	Marionette	INFO	Stopped listening on port 55678
+1590439255942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6n/6jrs9zvs35b405z7ck19fpwm0000gn/T/rust_mozprofilePI09Hb"
+1590439256402	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590439256599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590439256599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590439256599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590439256599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590439258127	Marionette	INFO	Listening on port 56251
+1590439258207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590439258323	Marionette	INFO	Stopped listening on port 56251
